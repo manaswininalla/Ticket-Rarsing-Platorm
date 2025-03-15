@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Ticket-Rarsing-Platorm/static/css/main.e08e5eb7.css",
+    "main.js": "/Ticket-Rarsing-Platorm/static/js/main.a01dfe0b.js",
+    "static/js/453.1b6cbde4.chunk.js": "/Ticket-Rarsing-Platorm/static/js/453.1b6cbde4.chunk.js",
+    "index.html": "/Ticket-Rarsing-Platorm/index.html",
+    "main.e08e5eb7.css.map": "/Ticket-Rarsing-Platorm/static/css/main.e08e5eb7.css.map",
+    "main.a01dfe0b.js.map": "/Ticket-Rarsing-Platorm/static/js/main.a01dfe0b.js.map",
+    "453.1b6cbde4.chunk.js.map": "/Ticket-Rarsing-Platorm/static/js/453.1b6cbde4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e08e5eb7.css",
+    "static/js/main.a01dfe0b.js"
+  ]
+}
